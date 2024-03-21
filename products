@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "Title": "Журнал: Fashion Forward",
+      "circulation": "50000",
+      "value": "5.99"
+    },
+    {
+      "Title": "Журнал: Nature's Beauty",
+      "circulation": "30000",
+      "value": "4.50"
+    },
+    {
+      "Title": "Журнал: Tech Trends",
+      "circulation": "80000",
+      "value": "6.99"
+    },
+    {
+      "Title": "Журнал: Health & Wellness",
+      "circulation": "60000",
+      "value": "5.25"
+    },
+    {
+      "Title": "Журнал: Travel Tales",
+      "circulation": "40000",
+      "value": "6.75"
+    },
+    {
+      "Title": "Газета: Daily News",
+      "circulation": "200000",
+      "amountOfPages": "20",
+      "valueOfpage": "0.10"
+    },
+    {
+      "Title": "Газета: Business Chronicle",
+      "circulation": "150000",
+      "amountOfPages": "24",
+      "valueOfpage": "0.15"
+    },
+    {
+      "Title": "Газета: Sports Spectator",
+      "circulation": "180000",
+      "amountOfPages": "16",
+      "valueOfpage": "0.08"
+    },
+    {
+      "Title": "Газета: Arts & Culture Digest",
+      "circulation": "120000",
+      "amountOfPages": "12",
+      "valueOfpage": "0.12"
+    },
+    {
+      "Title": "Газета: Community Connection",
+      "circulation": "250000",
+      "amountOfPages": "8",
+      "valueOfpage": "0.05"
+    }
+  ]
+}
